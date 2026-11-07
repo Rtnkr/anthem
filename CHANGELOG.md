@@ -1,5 +1,19 @@
 # What's new
 
+## 0.8
+
+**Hears you better, whoever is speaking**
+- Euthus now listens with NVIDIA Parakeet, running on your Mac. In a test with voices from India, the US, the UK and
+  South Africa it got 88 of 90 commands and references right, and puts the verse up about a second sooner.
+  Apple's recognizer stays available in Settings → Audio, and takes over automatically if Parakeet can't load.
+- Voice commands are understood even when they are misheard: "next to us", "next was" or "next, please" → next verse;
+  "put this in LLD" → NLT; "put this intelligent" → Telugu; "any SV" → ESV.
+- Badly misheard book names are recognised when a chapter and verse follow: "Travers 29 verse 13" → Proverbs 29:13.
+- "John 3:16, next verse" and "…verse 3, previous verse" work in one breath, and saying "next verse" three times
+  moves three verses.
+- Fewer surprises: a command waits until the sentence ends ("Next week we will meet…" no longer moves the verse), and
+  verses that only resemble what was said are suggested, never put on screen by themselves.
+
 ## 0.7
 
 **Works the same on every Mac**

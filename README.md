@@ -36,7 +36,8 @@ the preacher says *"turn with me to John 3:16"* and the verse is already on the 
 - Follows along: *"verse 9"*, *"from 8 onwards"*, *"verses 10 to 13"*, *"next verse"*.
 - Recognises verses that are **quoted without a reference**, and reads along as the preacher works through a chapter.
 - Switches translation by voice: *"put this in Telugu"*, *"read it in the NIV"*.
-- All speech recognition runs **on the Mac**. Nothing from your service leaves the building.
+- Understands commands even when they are misheard ("next to us" → next verse), across Indian, American, British and other accents.
+- All speech recognition runs **on the Mac** (NVIDIA Parakeet, with Apple's recognizer as a fallback). Nothing from your service leaves the building.
 
 **Built for the person at the desk**
 - Preview and Program monitors, one **Live** button (⌘↩), **Clear text** and **Blank screen** always in reach.
@@ -78,7 +79,7 @@ or an audio feed of the preacher.
 
 Do this once, a day or two before the service:
 
-1. **Open Euthus with the internet on.** It downloads Apple's speech model in the background (once).
+1. **Open Euthus with the internet on.** It downloads its speech models in the background (about 450 MB, once).
 2. **Allow the microphone** when asked.
 3. **Settings → Audio:** pick the microphone or mixer feed and press **Test microphone**. The level bar should
    move well into the middle when someone talks normally. If it barely moves, raise **Gain**. A quiet feed is the
@@ -108,7 +109,7 @@ This is a young app, and your feedback shapes it.
 ## Privacy
 
 Euthus has no account, no analytics and no tracking. Speech is recognised on your Mac and stays there.
-The app goes online only to download Apple's speech model, to check GitHub for updates, and to talk to the
+The app goes online only to download its speech models, to check GitHub for updates, and to talk to the
 devices *you* connect (NDI, linked Macs, phone remote). Details: [PRIVACY.md](PRIVACY.md).
 
 ## License

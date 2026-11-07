@@ -8,7 +8,8 @@ frameworks. Transcripts, notes, songs and settings are stored in `~/Library/Appl
 `~/Library/Logs/Euthus.log`. You can delete them at any time.
 
 **When Euthus uses the network:**
-- to download Apple's speech recognition model (handled by macOS);
+- to download the speech recognition models: Apple's (handled by macOS) and NVIDIA Parakeet (about 450 MB, once,
+  from Hugging Face);
 - to check https://github.com/Rtnkr/euthus for updates (Sparkle; GitHub sees an ordinary download request);
 - on your local network only, for features you turn on: NDI outputs, linking two Macs, the phone remote and OSC.
 
