@@ -6,7 +6,8 @@
 
 <p align="center">
   <b>Bible verses on your church screens the moment they are preached.</b><br>
-  A native Mac app that listens to the sermon and puts the verse up — no typing, no waiting.
+  A native Mac app that listens to the sermon and puts the verse up — no typing, no waiting.<br>
+  Plus songs with chords, slides, media and a service plan: one free app for the whole Sunday.
 </p>
 
 <p align="center">
@@ -40,22 +41,44 @@ the preacher says *"turn with me to John 3:16"* and the verse is already on the 
 - All speech recognition runs **on the Mac** (NVIDIA Parakeet, with Apple's recognizer as a fallback). Nothing from your service leaves the building.
 
 **Built for the person at the desk**
-- Preview and Program monitors, one **Live** button (⌘↩), **Clear text** and **Blank screen** always in reach.
+- Selected and Program monitors; double-click or **Return** puts the verse on screen.
+- An **On Air / Preview** switch: work on Program while the screens hold their picture (⌘L).
+- **Clear text** (⌘C, press again to bring the words back), **Blank screen** (⌘B) and a one-click **Logo** screen.
 - Type-ahead references: start typing `joh 3 16` or `song of sol 2` and Euthus jumps there as you type.
 - A short list of **suggestions** (spoken, quoted, paraphrased) you can put live with one click, plus a queue.
-- Keyboard first: arrows step verses, number keys pick a verse, `L` goes live, `Tab` switches to topic search.
+- Keyboard first: arrows step verses or slides, number keys pick a verse, `Tab` switches to topic search.
 - Arrange the toolbar your way (right-click it → Customize Toolbar…).
+
+**The whole service in one plan**
+- A **service plan** per date, Proclaim-style: sections, songs, slide decks, pictures, videos, scripture, the sermon
+  and a **countdown** to the start. Name each service and jump back to any earlier one; copy last week's plan in one click.
+- Drag songs, decks and pictures or videos from the Media panel straight into the plan; add a PDF or PowerPoint from
+  the plan's **+** menu. ⌘/⇧-click to pick several items and press Delete.
+- **Looping sections**: set a pre-service or post-service loop to change every few seconds; its pictures, videos and
+  decks play in turn and start again. → past the end of an item moves on to the next.
+
+**Songs with chords**
+- Search **Ultimate Guitar** and import in one click, or paste/import **ChordPro** (chords-over-lyrics sheets convert on the spot).
+- Transpose, key and CCLI, **song order** (Verse 1, Chorus, Bridge…), 1–4 lines per slide, and long lines split in two
+  automatically so the words stay big.
+- Jump by section from the keyboard: `V` verse, `C` chorus, `P` pre-chorus, `B` bridge, `I` intro, `E` ending (`V` then `2` = Verse 2).
+
+**Slides and media**
+- Decks of text slides, pictures and **videos with sound** (loop, mute, time left); import **PDF**, **PowerPoint** or **Keynote**.
+- Files are copied into Euthus, so moving the originals never breaks a slide.
 
 **Every screen in the room**
 - Up to **four outputs**: projectors, TVs, floating windows or **NDI** for your stream.
-- A **confidence monitor** for the preacher: current verse, next verse, clock and sermon timer.
-- **Green-key lower third** for ATEM, vMix and OBS.
+- A **confidence monitor** for the preacher and band: the verse or lyrics with **chords over the words**, the whole next
+  slide, a timer and the clock. Design it in Theme Designer › Stage screen: font, alignment, colours, and **drag and
+  resize** the current and next boxes. Pictures and announcement slides show exactly as the audience sees them.
+- **Lower third** on green or black for ATEM, vMix and OBS keys.
 - Themes with image and video backgrounds, and a **Media** folder for live backgrounds.
 
 **More**
 - Search by **topic or phrase**, e.g. *"do not worry about tomorrow"*.
 - Sermon **notes and slides**, written on the Mac, exported as PDF or Markdown.
-- Song lyrics, announcement slides, alerts for the nursery or car park, and a word-study lexicon.
+- Alerts for the nursery or car park, and a word-study lexicon.
 - Phone remote and OSC control (off until you switch it on).
 
 <p align="center">
@@ -84,9 +107,10 @@ Do this once, a day or two before the service:
 3. **Settings → Audio:** pick the microphone or mixer feed and press **Test microphone**. The level bar should
    move well into the middle when someone talks normally. If it barely moves, raise **Gain**. A quiet feed is the
    most common reason verses appear slowly.
-4. **Outputs…** (sidebar): choose the projector and, if you stream, an NDI or green-key output.
-5. **Add your Bibles** (optional): Euthus includes the King James Version. See [Bibles](#bibles).
-6. Press **Listen**, read a verse out loud, and watch it appear.
+4. **Outputs:** choose the projector and, if you have them, a confidence monitor, an NDI stream or a lower-third output.
+5. **Plan the service** (optional): pick the date at the top of the sidebar, then add songs, slides and media with **+**.
+6. **Add your Bibles** (optional): Euthus includes the King James Version. See [Bibles](#bibles).
+7. Press **Listen**, read a verse out loud, and watch it appear.
 
 ## Bibles
 

@@ -1,5 +1,31 @@
 # What's new
 
+## 1.1
+
+**Loops, a better stage screen, and a smoother plan**
+- Looping sections: right-click a section such as *Pre-service loop* → loop every 5–60 seconds. Its pictures, videos and
+  decks play in turn and start again; a video plays to its end first. Double-click the section to start it.
+- Stage screen: drag and resize the current-slide and next-slide boxes; choose the font, alignment and next-slide size.
+  The whole next slide shows (both lines, with chords), and welcome/announcement slides show as the audience sees them.
+- Plan: select several items with ⌘/⇧-click and press Delete; name each service and jump back to earlier ones; drag
+  pictures and videos from the Media panel into the plan; add a PDF or PowerPoint straight from the plan's **+**.
+- Scriptures: Show, Return and double-click always put the verse up, even while a song is on screen.
+- ⌘C (Clear text) brings the words back when pressed again.
+- Songs: Ultimate Guitar is first in the **+** menu; long lines are split in two automatically so the words stay big.
+- Test output windows no longer open on their own at launch; renaming a deck takes your typing straight away.
+- On Scriptures the Media panel folds away and the live transcript stays open.
+
+## 1.0
+
+**Songs, service plans and media**
+- A service plan per Sunday, Proclaim-style: sections, songs, decks, scripture, the sermon and a countdown; copy last
+  week's plan; drag to reorder.
+- Songs: ChordPro paste/import, Ultimate Guitar search, transpose, song order, section keys.
+- One song, three screens: lyrics for the audience, chords over the words on the stage screen, a clean lower third.
+- Pictures and videos (with sound) as slides; PDF, PowerPoint and Keynote import.
+- Countdown to the service, a Logo button, announcement loops, and an On Air / Preview switch.
+- Stage screen designer and named outputs. Everything is free.
+
 ## 0.8
 
 **Hears you better, whoever is speaking**
