@@ -112,6 +112,10 @@ Do this once, a day or two before the service:
 6. **Add your Bibles** (optional): Euthus includes the King James Version. See [Bibles](#bibles).
 7. Press **Listen**, read a verse out loud, and watch it appear.
 
+## AI assistant
+
+Ask Claude to import songs, design announcement slides, set the service order or change the screen. Setup takes two minutes: **[AI assistant guide](docs/AI-ASSISTANT.md)**.
+
 ## Bibles
 
 Euthus includes the public-domain **King James Version**, ready to use.

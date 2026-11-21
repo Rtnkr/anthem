@@ -1,5 +1,12 @@
 # What's new
 
+## 1.3
+
+**AI assistant connector**
+- Let Claude (or any MCP assistant) build your Sunday: import songs with chords, make announcement graphics and sermon
+  slides, set the service order, and drive the screens. See the [one-page guide](docs/AI-ASSISTANT.md).
+- Turn on **Settings ▸ Remote control**, then add `Euthus.app/Contents/MacOS/euthus-mcp` to your assistant.
+
 ## 1.1
 
 **Loops, a better stage screen, and a smoother plan**
