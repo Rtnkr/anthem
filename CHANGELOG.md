@@ -1,5 +1,10 @@
 # What's new
 
+## 1.0.1
+
+- Anthem is licensed under the PolyForm Strict License 1.0.0. The licence and open-source acknowledgements are in
+  **Help › Licence & Acknowledgements**, and the Windows installer shows the licence during setup.
+
 ## 1.0
 
 The first release of Anthem, for Mac and Windows.
