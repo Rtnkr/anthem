@@ -115,7 +115,14 @@ to download its speech models and to check for updates. Details: [PRIVACY.md](PR
 
 ## License
 
-Anthem is free to download and use in any church, ministry or home. It is not open source: the app, its name and its
-design are © Ratnakar Boddu, all rights reserved. See [LICENSE.md](LICENSE.md).
+Anthem is licensed under the [PolyForm Strict License 1.0.0](LICENSE.md). In short (the licence text is what counts):
+churches, charities, schools and individuals may download and use Anthem free of charge. You may not modify it,
+redistribute the installer or sell it. Download it only from this page.
+
+"Anthem" and the Anthem icon identify this software; please don't use them for another product. Bible translations,
+songs and media you add stay yours or their owners', and you are responsible for licences to use them. Anthem includes
+open-source components; their notices ship with the app (Help › Licence & Acknowledgements).
+
+Need terms for other uses, such as a commercial or redistribution licence? Ask in [Discussions](https://github.com/Rtnkr/anthem/discussions).
 
 <p align="center"><sub>Made for the local church. Soli Deo gloria.</sub></p>
